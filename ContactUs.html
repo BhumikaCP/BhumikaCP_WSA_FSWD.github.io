@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WSA-WeSaveAnimals Gallery</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+  <link rel="stylesheet" href="ContactUs.css">
+  <script src="ContactUs.js"></script>
+</head>
+
+<!--Nav bar-->
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+      <div class="image-1"><img src="logo_pic.png" alt="WSA Logo" width="125" height="125" style="margin-left: -65px; margin-top:-30px"></div> <!--Logo image-->
+  <div class="circle"></div> <!--TO ALIGN THE NAV BAR-->
+      <a class="navbar-brand" style="padding:10px; margin-left:-80px;" href="HomePage.html" >HOME</a>
+      <a class="navbar-brand" style="padding:10px" href="AboutUs.html">ABOUT US</a>
+      <a class="navbar-brand" style="padding:10px" href="Volunteer.html">VOLUNTEER</a>
+      <a class="navbar-brand" style="padding:10px" href="Donate.html">DONATE</a>
+      <a class="navbar-brand" style="padding:10px" href="ContactUs.html">CONTACT US</a>
+      <a class="navbar-brand" style="padding:10px" href="Gallery.html">GALLERY</a>
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0"> </ul>
+      <form class="d-flex" role="search" style="padding:10px">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
+  
+  <!--This is the end of the nav bar-->
+<br>
+
+    <div class="Ellipse-11"></div>
+    <p class="Contact-Us">
+        Contact
+      Us
+    </p>
+      <p class="WANT-TO-KNOW-MORE-DROP-US-A-MAIL-BELOW">
+        WANT TO KNOW MORE?<br>
+      DROP US A MAIL BELOW!</p>
+
+      <form class="box1" onsubmit="sendEmail(); reset(); return false;">
+        <label for="name" style="font-size:20px;">Name:</label><br>
+        <input type="text" id="name1" name="name1" style="width:300px;" placeholder="Your Name"><br>
+        <label for="email" style="font-size:20px;">Email:</label><br>
+        <input type="text" id="email1" name="email1" style="width:300px;"placeholder="Email"><br>
+          <label for="phoneNum" style="font-size:20px;">Phone Number:</label><br>
+          <input type="text" id="phoneNum1" name="phoneNum1" style="width:300px;"placeholder="Phone number"><br>
+          <label for="message" style="font-size:20px;">Message:</label><br>
+          <textarea type="text" id="message1" name="message1" rows="5" cols="55" placeholder="Your Message"></textarea> 
+      
+      <!--SUBMIT BUTTON-->
+<!--This is for submit button-->
+<a class="btn btn-primary" href="#" role="button" style="display:block; width:25%; margin-top:10px;" >Submit</a></form>
+
+
+
+<a class="pawsline"><img src="paws line.png" ></a> <!--paws image-->
+
+
+<a class="HoursOfOP"><img src="hoo-email-address.png" style="width:100%;"></a> <!--more deets image-->
+
+      <div class="Rectangle-42" style="margin-left:20%"><div class="mapouter"><div class="gmap_canvas"><iframe width="770" height="410" id="gmap_canvas" src="https://maps.google.com/maps?q=we save animals&t=&z=10&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://2yu.co"></a><br><style>.mapouter{position:relative;text-align:right;height:310px;width:870px;}</style><a href="https://embedgooglemap.2yu.co"></a><style>.gmap_canvas {overflow:hidden;background:none!important;height:510px;width:770px;}</style></div></div></div>
+
+    <div style="padding:10px;"></div>
+      <!--footer-->
+    <a class="pawsline" style="margin-top:-100px;"><img src="paws line.png" ></a> <!--paws image-->
+    <div class="container text-center" style="height:45px; margin-top:-80px;">
+      <div class="row">
+        <div class="col-6 col-sm-3" style="width:15%"><img src="logo_pic.png" alt="WSA Logo" width="45%" height="85%"></div>
+        <a class="col-6 col-sm-3" href="HomePage.html" style="width:13%; color:inherit;text-decoration:none;">HOME</a>
+        <a class="col-6 col-sm-3" href="AboutUs.html" style="width:13%;color:inherit;text-decoration:none;">ABOUT US</a>
+        <a class="col-6 col-sm-3" href="Volunteer.html" style="width:13%;color:inherit;text-decoration:none;">VOLUNTEER</a>
+        <a class="col-6 col-sm-3" href="ContactUs.html" style="width:13%;color:inherit;text-decoration:none;">CONTACT US</a>
+        <a class="col-6 col-sm-3" href="Donate.html" style="width:13%;color:inherit;text-decoration:none;">DONATE</a>
+        <a class="col-6 col-sm-3" href="Gallery.html" style="width:13%;color:inherit;text-decoration:none;">GALLERY</a>
+      </div>
+    </div>
+    <div class="col_AllRightsReserved" style="padding-left:35%"> © 2020. We Save Animals (WSA) Welfare Trust. All Rights Reserved.</div>
+
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
+    <script>
+function sendEmail(){
+
+  SecureToken : "9e24874c-b677-4a50-a517-c9326a06db3e",
+    
+    To : '0601prajwalbhaskar@gmail.com',
+    From : document.getElementById("email").value,
+    Subject : "New Contact Form",
+    Body : "Name: " + document.getElementById("name").value 
+    + "<br> Email: " + document.getElementById("email").value 
+    + "<br> Phone number: " + document.getElementById("phone").value
+    + "<br> Message: "+document.getElementById("message").value ;
+  }).then(
+  message => alert("Message Sent Successfully!")
+);
+} 
+
+
+    </script>
+    </body>
+    </html>

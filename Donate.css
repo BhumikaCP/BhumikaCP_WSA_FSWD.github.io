@@ -1,0 +1,224 @@
+
+
+  .Rectangle111 {
+    width: 443px;
+    height: 140px;
+    border-radius: 0px 250px 0px 250px;
+    padding: 58px 58px 37px 105px;
+    background-color: #bcde95;
+  }
+  .DONATE {
+    width: 280px;
+    height: 95px;
+    font-family: Raleway;
+    font-size: 80px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #000;
+  }
+  .Make-a-difference-with-your-donation-and-be-the-voice-for-those-who-cannot-speak {
+    width: 450px;
+    height: 68px;
+    margin: 19.7px 76px 26px 98px;
+    font-family: Raleway;
+    margin-left:600px;
+    margin-top:-120px;
+    font-size: 24px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.42;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #000;
+  }
+  .Rectangle222 {
+    width: 500px;
+    height: 154px;
+    margin: 26px 0 117px 56px;
+    border-radius: 250px 0 250px 0;
+    margin-left:600px;
+    padding: 39px 218px 17px 208px;
+    background-color: #ffc47f;
+  }
+  .Here-are-various-ways-you-can-contribute {
+    width: 355px;
+    height: 98px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top:20px;
+    margin-left:-120px;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.06;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #000;
+  }
+  
+  .image-24 {
+    width: 156.5px;
+    height: 204.6px;
+    flex-grow: 0;
+    border-radius: 300px;
+  }
+  .Rectangle-14 {
+    width: 215px;
+    height: 226px;
+    margin: 59px 85px 66px 40px;
+    border-radius: 300px;
+  }
+  
+  
+
+  .Rectangle333 {
+    width: 635px;
+    height: 500px;
+    margin: 40px 2.8px 6.4px 13px;
+    border-radius:0 250px 0 250px;
+    margin-top:-600px;
+    margin-left:500px;
+    background-color: #bcde95;
+  }
+  .Every-rupee-donated-saves-a-life-and-brings-hope-to-animals-in-need {
+    width: 500px;
+    height: 68px;
+    margin: 0 328px 27px 0;
+    margin-left:50px;
+    padding:100px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.7;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #000;
+  }
+  .Your-contribution-brings-comfort-healing-and-a-brighter-future-for-animals-in-our-care {
+    width: 500px;
+    height: 68px;
+    margin: 27px 0 0 268px;
+    font-family: Raleway;
+    padding:100px;
+    margin-left:100px;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.7;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #000;
+  }
+
+
+  /*FOOTER*/
+  .Rectangle-13 {
+    width: 1280px;
+    height: 159px;
+    margin: 47px 0 0;
+    padding: 21px 45px 0 49px;
+    background-color: #bcde95;
+  }
+  .Rectangle {
+    width: 1186px;
+    height: 1px;
+    margin: 0 0 36px;
+    background-color: #fff;
+  }
+  .image-1 {
+    width: 65px;
+    height: 64px;
+    margin: 36px 78px 37px 66px;
+    border-radius: 200px;
+  }
+  .ABOUT-US {
+    width: 97px;
+    height: 25px;
+    margin: 55px 97px 15px 114px;
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .VOLUNTEERS {
+    width: 127px;
+    height: 25px;
+    margin: 55px 97px 15px;
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .GALLERY {
+    width: 88px;
+    height: 25px;
+    margin: 55px 97px 15px;
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .DONATE {
+    width: 82px;
+    height: 25px;
+    margin: 55px 97px 15px;
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .CONTACT-US {
+    width: 122px;
+    height: 25px;
+    margin: 55px 37px 15px 11px;
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }.-\32 020-We-Save-Animals-WSA-Welfare-Trust-All-Rights-Reserved {
+    width: 807px;
+    height: 42px;
+    margin: 15px 11px 0 78px;
+    font-family: Kanit;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.09;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }

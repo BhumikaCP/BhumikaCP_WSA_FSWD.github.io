@@ -1,0 +1,417 @@
+
+.box1{
+  margin-left:35%;
+}
+  .Ellipse-11 {
+    width: 400px;
+    height: 300px;
+    margin: 0 16px 4px 0;
+    border-radius: 0px 0px 500px 0px;
+    padding: 242px 64px 134px 0;
+    background-color: #bcde95;
+  }
+  .Contact-Us {
+    width: 339px;
+    height: 150px;
+    font-family: Raleway;
+    font-size: 48px;
+    margin-top:-300px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }
+  .WANT-TO-KNOW-MORE-DROP-US-A-MAIL-BELOW {
+    width: 304px;
+    height: 68px;
+    margin: 47px 51px 52px 80px;
+    margin-left:600px;
+    margin-top:-250px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.7;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #000;
+  }
+  .Name {
+    width: 61px;
+    height: 40px;
+    margin: 6px 52.9px 61px 51.1px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.98;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .Rectangle-37 {
+    width: 300px;
+    height: 65px;
+    margin: 41px 45px 1px 50px;
+    background-color: #d9d9d9;
+  }
+  .Phone-number {
+    width: 143px;
+    height: 40px;
+    margin: 6px 62px 61px 44.9px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.98;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .Rectangle-39 {
+    width: 300px;
+    height: 65px;
+    margin: 41px 28px 1px 44.9px;
+    background-color: #d9d9d9;
+  }
+  .Email {
+    width: 56px;
+    height: 40px;
+    margin: 1px 57.9px 0 51.1px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.98;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .Rectangle-38 {
+    width: 300px;
+    height: 65px;
+    margin: 41px 44.9px 1px 50.1px;
+    background-color: #d9d9d9;
+  }
+  .Message {
+    width: 89px;
+    height: 40px;
+    margin: 1px 23px 8px 53px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.98;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .Rectangle-40 {
+    width: 619px;
+    height: 114px;
+    margin: 8px 0.9px 0 50px;
+    background-color: #d9d9d9;
+  }
+  .Rectangle-41 {
+    width: 294px;
+    height: 70px;
+    margin: 41px 6px 27px 48px;
+    padding: 17px 62px 17px 89px;
+    background-color: #bcde95;
+  }
+  .SUBMIT {
+    width: 143px;
+    height: 36px;
+    font-family: Raleway;
+    font-size: 32px;
+    font-weight: 800;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.24;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+  }
+  .paws-line {
+    width: 1278px;
+    height: 62px;
+    margin: 40px 0 0 2px;
+  }
+
+
+  .image-12 {
+    width: 28px;
+    height: 27px;
+    margin: 102px 70px 4px 23px;
+    border-radius: 33px;
+  }
+  .HOURS-OF-OPERATION {
+    width: 453px;
+    height: 57px;
+    margin: 4px 63px 7px 10.7px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .At-the-shelter-staff-members-are-in-the-office-and-available-most-weekdays {
+    width: 453px;
+    height: 113px;
+    margin: 7px 0 22px 40px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.82;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }
+
+  .image-14 {
+    width: 33px;
+    height: 36px;
+    margin: 102px 54px 30px 6px;
+  }
+  .MONDAY---FRIDAY-1000-AM---0500-PM {
+    width: 201px;
+    height: 113px;
+    margin: 4px 34.9px 8px 83.9px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.82;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #000;
+  }
+  
+  .MONDAY---FRIDAY-1000-AM---0500-PM .text-style-1 {
+    font-weight: bold;
+  }
+
+  .---9632300046 {
+    width: 453px;
+    height: 57px;
+    margin: 41px 20px 89px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.82;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }.PHONE {
+    width: 94px;
+    height: 57px;
+    margin: 44px 32px 86px 0;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+
+  .image-10 {
+    width: 42px;
+    height: 31px;
+    margin: 28px 48px 6px 72.9px;
+    border-radius: 56px;
+  }
+  .EMAIL {
+    width: 65px;
+    height: 57px;
+    margin: 18px 34px 13px 63.9px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.82;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #000;
+  }
+  .wsatrustindiagmailcom {
+    width: 249px;
+    height: 57px;
+    margin: 45px 29px 85px 52px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.82;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #000;
+  }
+
+  .image-11 {
+    width: 27px;
+    height: 33px;
+    margin: 32px 94px 57px 0;
+  }
+  address {
+    width: 105px;
+    height: 55px;
+    margin: 58px 49px 9px 47.7px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.82;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #000;
+  }
+  .SyNo-182-K-Chudahalli-Somanahalli-Post-Near-Guhantara-Resort-KMS-Farm-Uttarahalli-Hobli-K {
+    width: 492px;
+    height: 167px;
+    margin: 9px 20px 190px 49px;
+    padding: 13px 427px 96px 9px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.82;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }
+
+  .Rectangle-42 {
+    width: 562px;
+    height: 360px;
+    margin: 49px 83px 70px 48px;
+    background-color: #d9d9d9;
+  }
+
+
+/*FOOTER*/
+.Rectangle-13 {
+    width: 1280px;
+    height: 159px;
+    margin: 47px 0 0;
+    padding: 21px 45px 0 49px;
+    background-color: #bcde95;
+  }
+  .Rectangle {
+    width: 1186px;
+    height: 1px;
+    margin: 0 0 36px;
+    background-color: #fff;
+  }
+  .image-1 {
+    width: 65px;
+    height: 64px;
+    margin: 36px 78px 37px 66px;
+    border-radius: 200px;
+  }
+  .ABOUT-US {
+    width: 97px;
+    height: 25px;
+    margin: 55px 97px 15px 114px;
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .VOLUNTEERS {
+    width: 127px;
+    height: 25px;
+    margin: 55px 97px 15px;
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .GALLERY {
+    width: 88px;
+    height: 25px;
+    margin: 55px 97px 15px;
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .DONATE {
+    width: 82px;
+    height: 25px;
+    margin: 55px 97px 15px;
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .CONTACT-US {
+    width: 122px;
+    height: 25px;
+    margin: 55px 37px 15px 11px;
+    font-family: Outfit;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }.-\32 020-We-Save-Animals-WSA-Welfare-Trust-All-Rights-Reserved {
+    width: 807px;
+    height: 42px;
+    margin: 15px 11px 0 78px;
+    font-family: Kanit;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.09;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }
